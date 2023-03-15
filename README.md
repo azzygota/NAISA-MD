@@ -28,7 +28,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 ```bash
 git clone https://github.com/AdrianTzy/Naisa-MD
-cd Hisoka-Morou
+cd NAISA-MD
 npm install
 ```
 
@@ -40,7 +40,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 git clone https://github.com/AdrianTzy/Naisa-MD
-cd Naisa-MD
+cd NAISA-MD
 npm install
 ```
 
